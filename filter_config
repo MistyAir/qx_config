@@ -1,4 +1,3 @@
-host-suffix *.cn, direct
 host-suffix apple.com, direct
 host-suffix qq.com, direct
 host-suffix baidu.com, direct
