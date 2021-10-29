@@ -73,6 +73,7 @@ server=8.8.8.8
 [policy]
 url-latency-benchmark=all, server-tag-regex=|, check-interval=600, tolerance=0
 url-latency-benchmark=bilibili港澳台, server-tag-regex=香港|台湾, check-interval=600, tolerance=0
+url-latency-benchmark=StreamingSE, server-tag-regex=香港|台湾, check-interval=600, tolerance=0
 ;url-latency-benchmark=香港节点, server-tag-regex=(?=.*(港|HK|(?i)Hong))^((?!(台|日|韩|新|美)).)*$, check-interval=600, tolerance=0, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/HK.png
 ;url-latency-benchmark=台湾节点, server-tag-regex=(?=.*(台|TW|(?i)Taiwan))^((?!(港|日|韩|新|美)).)*$, check-interval=600, tolerance=0, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/TW.png
 ;url-latency-benchmark=日本节点, server-tag-regex=(?=.*(日|JP|(?i)Japan))^((?!(港|台|韩|新|美)).)*$, check-interval=600, tolerance=0, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/JP.png
