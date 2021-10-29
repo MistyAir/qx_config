@@ -7,3 +7,4 @@ host-suffix, fb.com, proxy
 host-suffix, twitch.tv, proxy
 host-suffix, gstatic.com, proxy
 host-keyword, google, proxy
+final, proxy
